@@ -39,7 +39,7 @@
 #
 # :host: "www.example.com"
 #
-:host: ""
+:host: "https://ffcrmtst.herokuapp.com"
 
 
 # Base URL

@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
 
+ruby '2.3.4'
 # Uncomment the database that you have configured in config/database.yml
 # ----------------------------------------------------------------------
 db_drivers = {
@@ -84,4 +85,3 @@ gem 'uglifier'
 gem 'execjs'
 gem 'therubyracer', platform: :ruby unless ENV["CI"]
 gem 'nokogiri', '>= 1.6.8'
-ruby '2.3.4'
